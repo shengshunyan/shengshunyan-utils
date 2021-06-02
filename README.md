@@ -66,3 +66,19 @@ The MIT License (Expat). See the [license file](LICENSE) for details.
 
 utils, JavaScript
 
+## 包维护
+
+```sh
+# 按公开库发布，在运行 npm 发布命令时要加参数
+$ npm publis --access public
+
+# 升级补丁版本号
+$ npm version patch
+
+# 升级小版本号
+$ npm version minor
+
+# 升级大版本号
+$ npm version major
+```
+

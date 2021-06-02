@@ -1,0 +1,10 @@
+# .npmignore
+
+__test__/
+example/
+src/
+.babelrc
+.eslintignore
+.eslintrc.js
+rollup.config.js
+tsconfig.json
