@@ -1,6 +1,6 @@
 {
   "name": "@shengshunyan/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "some utils function",
   "main": "lib/index.js",
   "module": "es/index.js",
